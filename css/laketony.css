@@ -44,7 +44,9 @@ h2{
 	color: blue;
 	text-align: center;
 }
-
+p{
+	text-align: center;
+}
 a{
 	color: blue;
 }
